@@ -28,7 +28,15 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+
 	<key>UISupportedInterfaceOrientations</key>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need access to your location to show directions.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need access to your location to show directions.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>We need access to your location to show directions at all times.</string>
+
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
